@@ -60,6 +60,10 @@ The smart contracts for QueBlock are written in Solidity and are located in the 
 ![image](https://github.com/MeGaTroNOO7/Queblock/assets/98184459/14591d3e-26ca-433f-8d6b-1d31f3e2ba98)
 
 
+
+![image](https://github.com/MeGaTroNOO7/Queblock/assets/98184459/412b5ea7-d271-4d66-8b71-c62f51266cd0)
+
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to QueBlock, please fork the repository and submit a pull request with your changes. Be sure to follow the [contribution guidelines](CONTRIBUTING.md).
