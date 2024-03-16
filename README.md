@@ -15,37 +15,37 @@ To get started with QueBlock, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/YourUsername/QueBlock.git
-   \`\`\`
+   ```
 
 2. Install dependencies:
 
-   \`\`\`bash
+   ```bash
    cd QueBlock
    npm install
-   \`\`\`
+   ```
 
 3. Start the development server:
 
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 4. Connect to Ganache:
 
    - Ensure Ganache is running on your local machine.
-   - Update the \`truffle-config.js\` file to connect to your Ganache instance.
+   - Update the `truffle-config.js` file to connect to your Ganache instance.
 
 5. Deploy smart contracts:
 
-   \`\`\`bash
+   ```bash
    truffle migrate --reset
-   \`\`\`
+   ```
 
 6. Interact with the application:
 
-   Open your web browser and navigate to \`http://localhost:3000\` to access the QueBlock voting system.
+   Open your web browser and navigate to `http://localhost:3000` to access the QueBlock voting system.
 
 ## Smart Contracts
 
